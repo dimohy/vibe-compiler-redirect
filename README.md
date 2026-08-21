@@ -1,4 +1,4 @@
-# Agentic Shaping legacy-domain redirect
+# Retired Agentic Shaping legacy-domain redirect
 
-Preserves existing links from `https://vibe-compiler.slogs.dev/` and redirects
-them to the official `https://agentic-shaping.slogs.dev/` site.
+The `vibe-compiler.slogs.dev` domain and its GitHub Pages deployment are retired.
+This repository remains only as deployment history.
